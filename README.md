@@ -1,6 +1,6 @@
 # webhook-wamp-example
 
-this is webhook example code for made a bot chat integrated with whatsapp gatewqy M Pedia
+This serves as a webhook example code to develop a chatbot integrated with the WhatsApp Gateway Lunasender.
 
 FREE webhook :
 
